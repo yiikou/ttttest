@@ -1,2 +1,2 @@
-yiko is bool!
+yiko is BOOL!!!!
 momo is bool,too!
